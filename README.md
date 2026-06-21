@@ -1,18 +1,119 @@
-# 💫 About Me:
-Hi there, I'm Aryan Verma 👋<br>🎓 Computer Engineering Student | 🤖 Machine Learning Enthusiast | 📊 Aspiring Data Scientist<br><br>I'm passionate about solving real-world problems using Machine Learning,<br>Data Analytics, and Python. I enjoy building projects that combine data, <br>automation, and AI to create practical solutions while continuously expanding <br>my knowledge in software development and cybersecurity.
+# Hi there, I'm Aryan Verma 👋
 
+<h3 align="center">
+Computer Engineering Student • Machine Learning Enthusiast • Aspiring Data Scientist
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-verma-3b6a16245) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a6471670@gmail.com) 
-
-# 💻 Tech Stack:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aryanuo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aryanuo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryanuo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+Building intelligent solutions with Machine Learning, Data Analytics, and Python while exploring the intersection of AI and Cybersecurity.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Aryanuo&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+* 🎓 B.Tech Computer Engineering Student
+* 🤖 Passionate about Machine Learning & Artificial Intelligence
+* 📊 Interested in Data Analytics and Data Visualization
+* 💻 Love building real-world AI applications using Python
+* 🌱 Currently learning Deep Learning, MLOps, and Cybersecurity
+* 🎯 Goal: Become an AI Engineer and later specialize in AI Security
+
+---
+
+# 🚀 Current Focus
+
+* 🧠 Machine Learning Projects
+* 📈 Data Analytics
+* 📚 Data Structures & Algorithms
+* 🔍 Deep Learning
+* 🛡️ Google Cybersecurity Professional Certificate
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/aryan-verma-3b6a16245)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:a6471670@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 📊 Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge\&logo=matplotlib\&logoColor=black)
+
+### 🤖 Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+### ⚙️ Development & Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Resume Reviewer
+
+AI-powered resume analyzer using **React, Firebase, and Google Gemini API**.
+
+### 📈 Christmas Sales Price Prediction
+
+Machine Learning regression model with feature engineering and ensemble methods.
+
+### 🎮 Gesture-Based Desktop Control
+
+Control your computer using hand gestures with **OpenCV** and **MediaPipe**.
+
+### 📊 Customer Segmentation
+
+K-Means clustering with interactive visualizations and business insights.
+
+---
+
+# 📚 Currently Learning
+
+* Deep Learning
+* TensorFlow & PyTorch
+* MLOps
+* Data Engineering
+* Google Cybersecurity Professional Certificate
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Aryanuo&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aryanuo&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aryanuo&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryanuo&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! I'm always learning, building, and sharing my journey in Machine Learning, Data Analytics, and AI.
+</p>
