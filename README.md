@@ -66,9 +66,6 @@ Building intelligent solutions with Machine Learning, Data Analytics, and Python
 
 # 🚀 Featured Projects
 
-### 📈 Christmas Sales Price Prediction
-
-Machine Learning regression model with feature engineering and ensemble methods.
 
 ### 🎮 Gesture-Based Desktop Control System
 A computer vision application that translates real-time hand gestures into desktop actions using MediaPipe, OpenCV, and a custom-trained machine learning model.
