@@ -23,11 +23,10 @@ Building intelligent solutions with Machine Learning, Data Analytics, and Python
 
 # 🚀 Current Focus
 
-* 🧠 Machine Learning Projects
+* 🔍 Deep Learning
 * 📈 Data Analytics
 * 📚 Data Structures & Algorithms
-* 🔍 Deep Learning
-* 🛡️ Google Cybersecurity Professional Certificate
+* 🛡️ Cybersecurity 
 
 ---
 
@@ -67,31 +66,44 @@ Building intelligent solutions with Machine Learning, Data Analytics, and Python
 
 # 🚀 Featured Projects
 
-### 🤖 AI Resume Reviewer
-
-AI-powered resume analyzer using **React, Firebase, and Google Gemini API**.
-
 ### 📈 Christmas Sales Price Prediction
 
 Machine Learning regression model with feature engineering and ensemble methods.
 
-### 🎮 Gesture-Based Desktop Control
+### 🎮 Gesture-Based Desktop Control System
+A computer vision application that translates real-time hand gestures into desktop actions using MediaPipe, OpenCV, and a custom-trained machine learning model.
 
-Control your computer using hand gestures with **OpenCV** and **MediaPipe**.
+- Processed live webcam frames using **OpenCV** and extracted 21 hand landmarks with **MediaPipe** for real-time hand tracking.
+- Designed a modular gesture recognition pipeline by converting landmark coordinates into feature vectors and training an **MLP neural network** for gesture classification.
+- Implemented touchpad-style cursor movement using **relative coordinate mapping**, smoothing filters, and dead-zone detection to reduce cursor jitter.
+- Developed a configurable dashboard that stores gesture mappings, manages datasets, and triggers model retraining without modifying the source code.
 
-### 📊 Customer Segmentation
 
-K-Means clustering with interactive visualizations and business insights.
+### 🎮 GADDHA – Strategic Multiplayer Game
+A real-time multiplayer strategy game built with React and Firebase, where players compete by predicting hidden potholes while game state is synchronized instantly across all clients.
+
+* Designed the game flow by storing rooms, players, scores, and turns in **Firebase Firestore**, then used real-time listeners to instantly propagate every game update to all connected clients.
+* Built the frontend with **React**, breaking the application into reusable components that manage room creation, player interactions, strategy selection, and game progression through shared application state.
+* Implemented the game mechanics by validating player actions, updating scores and turn order in Firestore, and deploying the application with **Firebase Hosting** to enable seamless multiplayer gameplay over the web.
+
+### 🛡️ AI Cyber Threat Detection System
+
+A machine learning-based threat detection system that analyzes network traffic, identifies suspicious activity, and visualizes automated incident response through an interactive dashboard.
+
+* Preprocessed network traffic data, engineered features, and trained **Random Forest** and **Isolation Forest** models to classify attacks and detect anomalous network behavior.
+* Built an end-to-end detection pipeline where simulated traffic is sent to a Flask backend, analyzed by the trained models, and passed through an automated response workflow for risk assessment.
+* Developed a **Streamlit** dashboard to display real-time predictions, anomaly scores, attack trends, and threat severity, providing a SOC-style monitoring interface.
 
 ---
 
-# 📚 Currently Learning
+### 🤖 AI Resume Reviewer *(Currently Building)*
 
-* Deep Learning
-* TensorFlow & PyTorch
-* MLOps
-* Data Engineering
-* Google Cybersecurity Professional Certificate
+An AI-powered platform that analyzes resumes and provides personalized, role-specific feedback to help candidates improve their chances of landing interviews.
+
+- Extracting and processing resume content from PDF files before generating structured insights using an LLM.
+- Comparing candidate skills and experience with target job requirements to identify gaps and recommend improvements.
+- Generating detailed feedback on resume structure, ATS compatibility, and content quality through an interactive web interface.
+
 
 ---
 
