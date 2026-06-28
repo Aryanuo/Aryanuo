@@ -1,4 +1,4 @@
-# Hi there, I'm Aryan Verma 👋
+# Hi there, I'm Aryan 👋
 
 <h3 align="center">
 Computer Engineering Student • Machine Learning Enthusiast • Aspiring Data Scientist
