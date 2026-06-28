@@ -66,8 +66,24 @@ Building intelligent solutions with Machine Learning, Data Analytics, and Python
 
 # 🚀 Featured Projects
 
+### 🤖 AI Resume Reviewer [Live](https://resumeai1.web.app/)
 
-### 🎮 Gesture-Based Desktop Control System
+An AI-powered platform that analyzes resumes and provides personalized, role-specific feedback to help candidates improve their chances of landing interviews.
+
+- Extracting and processing resume content from PDF files before generating structured insights using an LLM.
+- Comparing candidate skills and experience with target job requirements to identify gaps and recommend improvements.
+- Generating detailed feedback on resume structure, ATS compatibility, and content quality through an interactive web interface.
+
+
+### 🎮 GADDHA – Strategic Multiplayer Game  [Live](https://pothole-the-gaddha.web.app)
+A real-time multiplayer strategy game built with React and Firebase, where players compete by predicting hidden potholes while game state is synchronized instantly across all clients.
+
+* Designed the game flow by storing rooms, players, scores, and turns in **Firebase Firestore**, then used real-time listeners to instantly propagate every game update to all connected clients.
+* Built the frontend with **React**, breaking the application into reusable components that manage room creation, player interactions, strategy selection, and game progression through shared application state.
+* Implemented the game mechanics by validating player actions, updating scores and turn order in Firestore, and deploying the application with **Firebase Hosting** to enable seamless multiplayer gameplay over the web.
+  
+
+### 🎮 Gesture-Based Desktop Control System [Link](https://github.com/Aryanuo/Gesture-Based-Desktop-Interaction-System)
 A computer vision application that translates real-time hand gestures into desktop actions using MediaPipe, OpenCV, and a custom-trained machine learning model.
 
 - Processed live webcam frames using **OpenCV** and extracted 21 hand landmarks with **MediaPipe** for real-time hand tracking.
@@ -76,14 +92,7 @@ A computer vision application that translates real-time hand gestures into deskt
 - Developed a configurable dashboard that stores gesture mappings, manages datasets, and triggers model retraining without modifying the source code.
 
 
-### 🎮 GADDHA – Strategic Multiplayer Game
-A real-time multiplayer strategy game built with React and Firebase, where players compete by predicting hidden potholes while game state is synchronized instantly across all clients.
-
-* Designed the game flow by storing rooms, players, scores, and turns in **Firebase Firestore**, then used real-time listeners to instantly propagate every game update to all connected clients.
-* Built the frontend with **React**, breaking the application into reusable components that manage room creation, player interactions, strategy selection, and game progression through shared application state.
-* Implemented the game mechanics by validating player actions, updating scores and turn order in Firestore, and deploying the application with **Firebase Hosting** to enable seamless multiplayer gameplay over the web.
-
-### 🛡️ AI Cyber Threat Detection System
+### 🛡️ AI Cyber Threat Detection System  [Link](https://github.com/Aryanuo/Ai-Cyber-Threat-Detection-System)
 
 A machine learning-based threat detection system that analyzes network traffic, identifies suspicious activity, and visualizes automated incident response through an interactive dashboard.
 
@@ -93,16 +102,6 @@ A machine learning-based threat detection system that analyzes network traffic, 
 
 ---
 
-### 🤖 AI Resume Reviewer *(Currently Building)*
-
-An AI-powered platform that analyzes resumes and provides personalized, role-specific feedback to help candidates improve their chances of landing interviews.
-
-- Extracting and processing resume content from PDF files before generating structured insights using an LLM.
-- Comparing candidate skills and experience with target job requirements to identify gaps and recommend improvements.
-- Generating detailed feedback on resume structure, ATS compatibility, and content quality through an interactive web interface.
-
-
----
 
 # 📊 GitHub Stats
 
